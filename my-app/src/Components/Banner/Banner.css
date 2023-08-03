@@ -1,0 +1,77 @@
+.home-banner {
+    background: #071C4D;
+    padding: 100px 100px 100px 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.home-banner1 {
+    max-width: 100%;
+    color: #fff;
+    font-size: 37px;
+}
+.home-banner1 span {
+    color: #FD7C50;
+}
+.home-banner1 p {
+    font-size: 26px;
+    line-height: 30px;
+    font-family: inter;
+    font-weight: 400;
+}
+.form-valid-here>input{
+    padding: 10px;
+}
+.form-valid-here>input {
+    padding: 10px;
+    width:100%;
+}
+.home-banner2{
+  width: 30%;
+  background: #fff;
+  padding: 30px 10px 30px 10px;
+  border-radius: 10px;
+}
+.form-valid-here>input {
+    padding: 18px;
+    width: 92%;
+    border: 1px solid #FD7C50;
+    border-radius: 6px;
+    background: transparent;
+    outline: none;
+    margin-top: 6px;
+    margin-bottom: 15px;
+}
+textarea#message {
+    border: 1px solid #FD7C50;
+    outline: 0;
+    width: 98%;
+    border-radius: 6px;
+}
+span.error {
+    color: red;
+    font-size: 18px;
+    font-weight: 400;
+    font-family: inter;
+}
+.form-valid-here >label {
+    color: #000;
+    font-size: 18px;
+    font-weight: 400;
+    font-family: inter;
+}
+.button_design > button {
+    border: 0;
+    background: #071C4D;
+    width: 100%;
+    padding: 17px;
+    border-radius: 6px;
+    color: #fff;
+    font-family: inter;
+    font-weight: 500;
+    font-size: 21px;
+}
+.button_design > button:hover{
+    background:#FD7C50;
+}

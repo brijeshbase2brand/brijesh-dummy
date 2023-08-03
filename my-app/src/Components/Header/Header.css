@@ -1,0 +1,41 @@
+.b2b-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .b2b-img img {
+    max-width: 100%;
+  }
+  .header-page ul {
+    display: flex;
+  }
+  .b2b-img {
+    width: 15%;
+  }
+  .header-page ul li {
+    list-style: none;
+    padding: 15px;
+    margin: 15px;
+  }
+  .b2b-header ul li a {
+    text-decoration: none;
+    font-size: 20px;
+    font-family: inter;
+    font-weight: 600;
+    color: #090000;
+  }
+  .header-button a {
+    text-decoration: none;
+    font-size: 20px;
+    font-family: inter;
+    font-weight: 600;
+    color: #fff;
+  }
+  .header-button {
+    background: #071C4D;
+    padding: 14px;
+    border-radius: 8px;
+  }
+  h1 {
+    margin: 0px;
+}
